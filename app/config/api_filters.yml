@@ -1,0 +1,5 @@
+services:
+    phone.search_filter:
+        parent: 'api_platform.doctrine.orm.search_filter'
+        arguments: [ { operatingSystem: 'exact', state: 'exact' } ]
+        tags: [ 'api_platform.filter' ]

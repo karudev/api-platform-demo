@@ -1,0 +1,33 @@
+AppBundle\Entity\Brand:
+    brand_1:
+        name: "Apple"
+    brand_2:
+        name: "Samsung"
+    brand_3:
+        name: "Sony"
+    brand_4:
+        name: "LG"
+    brand_5:
+        name: "Wiko"
+    brand_6:
+        name: "Huawei"
+    brand_7:
+        name: "Nokia"
+    brand_8:
+        name: "Honor"
+    brand_9:
+        name: "Asus"
+    brand_10:
+        name: "Motorola"
+    brand_11:
+        name: "Appler"
+    brand_12:
+        name: "Doro"
+    brand_13:
+        name: "Meizu"
+    brand_14:
+        name: "BLACKVIEW"
+    brand_15:
+        name: "Xiaomi"
+    brand_16:
+        name: "Alcatel"
