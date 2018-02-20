@@ -17,6 +17,8 @@ class DataLoader extends AbstractLoader
     {
 
             return [
+                '@AppBundle/DataFixtures/ORM/api_customer.yml',
+                '@AppBundle/DataFixtures/ORM/user.yml',
                 '@AppBundle/DataFixtures/ORM/brand.yml',
                 '@AppBundle/DataFixtures/ORM/phone.yml',
             ];
